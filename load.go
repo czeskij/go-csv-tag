@@ -110,6 +110,7 @@ func readFile(file io.Reader, separator rune, header []string) ([]string, [][]st
 	// Create and configure the csv reader.
 	reader := csv.NewReader(file)
 	reader.TrimLeadingSpace = true
+	reader.LazyQuotes = true
 
 	if separator != 0 {
 		reader.Comma = separator
