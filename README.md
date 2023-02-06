@@ -1,21 +1,17 @@
 # go-csv-tag
 
-Read csv file from Go using tags
+Read csv file from Go using tags.
 
-[![godoc for artonge/go-csv-tag](https://godoc.org/github.com/artonge/go-csv-tag?status.svg)](http://godoc.org/github.com/artonge/go-csv-tag)
+[![godoc for oneconstellation/go-csv-tag](https://godoc.org/github.com/oneconstellation/go-csv-tag?status.svg)](http://godoc.org/github.com/oneconstellation/go-csv-tag)
 
-![Go](https://github.com/artonge/go-csv-tag/workflows/Go/badge.svg)
-[![goreportcard for artonge/go-csv-tag](https://goreportcard.com/badge/github.com/artonge/go-csv-tag)](https://goreportcard.com/report/artonge/go-csv-tag)
+![Go](https://github.com/oneconstellation/go-csv-tag/workflows/Go/badge.svg)
+[![goreportcard for oneconstellation/go-csv-tag](https://goreportcard.com/badge/github.com/oneconstellation/go-csv-tag)](https://goreportcard.com/report/oneconstellation/go-csv-tag)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**The project is in maintenance mode.**
-
-It is kept compatible with changes in the Go ecosystem but no new features will be developed. PR could be accepted.
-
 # Install
 
-`go get github.com/artonge/go-csv-tag/v2`
+`go get github.com/oneconstellation/go-csv-tag/v2`
 
 # Example
 

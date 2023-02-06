@@ -1,3 +1,3 @@
-module github.com/czeskij/go-csv-tag/v2
+module github.com/oneconstellation/go-csv-tag/v2
 
-go 1.18
+go 1.20
